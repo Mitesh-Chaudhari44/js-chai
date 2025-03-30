@@ -22,7 +22,7 @@ const myArr2 = new Array(1, 2, 3, 4)
 
 // console.log(myArr);
 // console.log( newArr);
-console.log(typeof newArr);
+// console.log(typeof newArr);
 
 
 
